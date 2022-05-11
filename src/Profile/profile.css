@@ -1,0 +1,16 @@
+.profile{
+    margin-top:50px;
+    margin-left:10%;
+}
+.profile img {
+    width: 170px;
+}
+.profile button {
+    height: 30px;
+    width: 50px;
+    background-color: green;
+    font-weight: bolder;
+    font-size: larger;
+    color: aliceblue;
+    margin-left: 10%;
+}

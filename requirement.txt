@@ -1,0 +1,13 @@
+
+
+
+1. fifteen user's information:
+        name 
+        phone-number
+        adress
+        sallary
+        image
+   
+2. button (+)  to add the user in write side
+   the total salary of added people
+          

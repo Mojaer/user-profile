@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  margin: 10px 50px 10px 100px;
+  text-align: left;
+}
+.profile{
+  width: 70%;
+}
+.add{
+  position:fixed;
+  margin-left: 70%;
+}
